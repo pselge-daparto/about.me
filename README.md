@@ -10,9 +10,11 @@ Each book has three fields: bought, read and reviewd. the first two are mandator
 the third one is more of a personal goal, to get myself into the habbit of writing.
 
 * Domain-Driven Design by Eric Evans
+```
   bought [x]
   read [ ]
   reviewed [ ]
+```
 
 * Design Patterns by Erich Gamma, Richard Helm et. al.
   bought [x]
